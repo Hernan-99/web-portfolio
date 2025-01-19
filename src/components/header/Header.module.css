@@ -1,0 +1,10 @@
+.header {
+  padding: 20px 16px;
+  background-color: #212121;
+  border: 2px solid rgb(43, 43, 43);
+  border-radius: 16px;
+  min-width: 320px;
+  max-width: 1728px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
